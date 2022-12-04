@@ -1,0 +1,21 @@
+name: Hitselikez
+version: '${project.version}'
+main: de.hitselikez.main.Main
+api-version: 1.19
+authors: [ HitselikeZ ]
+commands:
+  clearitem:
+  invsee:
+  viewplayer:
+  timeban:
+  day:
+  night:
+  sun:
+  money:
+  pay:
+  gm:
+  setmoney:
+  nameitem:
+  hilfe:
+  tpr:
+
